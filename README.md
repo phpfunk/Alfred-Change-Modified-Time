@@ -14,6 +14,9 @@ That's it.
 
 ### Changelog
 
+**1.0.2** - May 17th, 2013
+* Fixing replacement of `s` variable for proper plural of word `Files`
+
 **1.0.1** - May 16th, 2013
 * Changed notification title
 

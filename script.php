@@ -43,7 +43,7 @@ else {
 
 // Loop through each file and update the modtime to now
 foreach ($files as $file) {
-    $s = shell_exec('touch –mt ' . '"' . $file . '"');
+    $r = shell_exec('touch –mt ' . '"' . $file . '"');
 }
 
 // Print message
