@@ -14,5 +14,5 @@ That's it.
 
 ### Changelog
 
-**1.0** - May 16th, 2013
+**1.0.0** - May 16th, 2013
 * Initial commit
