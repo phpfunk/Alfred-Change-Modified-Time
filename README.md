@@ -4,6 +4,9 @@ This is helpful when using services like `git` where it preserves the modificati
 
 Anyway, maybe this will be helpful for someone :)
 
+### Compatibilty
+Alfred 2+
+
 ### File Action
 This extension is a file action, meaning you look for files or a directory with files in Alfred. When you find it you can press the '>' key to access the file actions menu. Click 'Change Modified Time to Now' and the file or files will be updated.
 
